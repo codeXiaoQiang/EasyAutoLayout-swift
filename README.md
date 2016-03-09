@@ -1,6 +1,6 @@
 ### EasyAutoLayout-swift
 =================
-与UIView+AutoLayout,masonry这两款主流的自动布局框架相比,虽然功能不够强大,但是解决基本的布局是没有问题的.框架实现是基于`UIView`的分类,开发者只要把`Extension`拖入项目中就可以使用,大大减少了使用第三方的依赖,一行代码搞定布局,没有冗余的垃圾代码
+与UIView+AutoLayout,masonry这两款主流的自动布局框架相比,虽然功能不够强大,但是解决基本的布局是没有问题的.框架实现是基于`UIView`的分类,开发者只要把`Extension`拖入项目中就可以使用,大大减少了使用第三方的依赖,一行代码搞定布局,没有冗余的垃圾代码.[oc版请戳这里!!!!!!!!!!!](https://github.com/codeXiaoQiang/EasyAutoLayout)
 
 ## EasyAutoLayout 
 
